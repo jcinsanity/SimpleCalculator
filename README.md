@@ -1,6 +1,6 @@
 # SimpleCalculator
 
-![jcinsanity](Screenshot 001l.PNG)
+![jcinsanity](Screenshot 001.PNG)
 
 ~~~
 package ph.edu.dlsu;
